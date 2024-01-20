@@ -2,8 +2,9 @@
 .caption{
     display: flex;
     justify-content: space-around;
-    color: rgb(25, 25, 126);
+    color: rgb(23, 23, 94);
     font-size: 25px;
+    background-color: #bce7e7;
 }
 .btn{
     color: #c9c5d4;
