@@ -57,16 +57,128 @@
   background-repeat: no-repeat;
   background-size: cover;
   height: 600px;
-text-align: center;
-justify-content: center;
+  text-align: center;
+  justify-content: center;
 }
 
 .ben-banner-sec1 {
   text-transform: capitalize;
-   padding-top: 250px;
+  padding-top: 250px;
   font-size: 50px;
   color: #fff;
   line-height: 60px;
   font-weight: 600;
   font-family: Arial, Helvetica, sans-serif;
+}
+
+.ben-sec-below-banner {
+  height: 700px;
+  background-color: #ffffff;
+}
+
+.ben-1p {
+  font-size: 30px;
+  text-align: center;
+  justify-content: center;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  padding-top: 20px;
+  color: #31355b;
+}
+
+.ben-col3 {
+  display: flex;
+  background-color: #fff;
+  margin-left: 90px;
+  margin-right: 20px;
+  padding-top: 50px;
+}
+
+.ben-col3 p {
+  text-align: center;
+  font-size: 25px;
+  color: #485164;
+  padding-top: 20px;
+  padding-bottom: 5px;
+  text-transform: capitalize;
+}
+
+.bencol3-img1 {
+  height: 100%;
+  width: 100%;
+  border-right: 30px solid #fff;
+  border-bottom-left-radius: 60px;
+  border-bottom-right-radius: 60px;
+  border-top-right-radius: 60px;
+  border-top-left-radius: 60px;
+}
+.bencol3-img2 {
+  height: 100%;
+  width: 100%;
+  border-bottom-left-radius: 40px;
+  border-bottom-right-radius: 60px;
+  border-top-right-radius: 60px;
+  border-top-left-radius: 40px;
+  border-right: 30px solid #fff;
+}
+.bencol3-img3 {
+  height: 100%;
+  width: 100%;
+  border-bottom-left-radius: 60px;
+  border-bottom-right-radius: 60px;
+  border-top-right-radius: 60px;
+  border-top-left-radius: 60px;
+}
+
+.ben-col-1 hr {
+  width: 70%;
+  margin-left: 60px;
+  color: #e0e0e0;
+  margin-bottom: 10px;
+}
+
+.ben-col-2 hr {
+  width: 70%;
+  margin-left: 60px;
+  color: #e0e0e0;
+  margin-bottom: 10px;
+}
+
+.ben-col-3 hr {
+  width: 70%;
+  margin-left: 60px;
+  color: #e0e0e0;
+  margin-bottom: 10px;
+}
+
+.ben-btn {
+  font-size: 20px;
+  margin-left: 130px;
+  padding: 10px 20px;
+  background-color: #ffb619;
+  color: #30344f;
+  cursor: pointer;
+  border: #ffb619;
+  border-radius: 15px;
+}
+
+.ben-btn:hover {
+  color: #fff;
+  background-color: #31355b;
+}
+
+.ben-btn1 {
+  font-size: 20px;
+  padding: 8px 10px;
+  background-color: #ffb619;
+  color: #30344f;
+  cursor: pointer;
+  border: #ffb619;
+  border-radius: 10px;
+  margin-left: 500px;
+}
+
+.ben-btn1:hover {
+  color: #fff;
+  background-color: #31355b;
 }
