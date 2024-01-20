@@ -1,0 +1,26 @@
+
+.caption{
+    display: flex;
+    justify-content: space-around;
+    color: rgb(25, 25, 126);
+    font-size: 25px;
+}
+.btn{
+    color: #3509ad;
+    background-color: aquamarine;
+    border-color: rgb(5, 56, 16);
+    
+    
+}
+.what{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #0f032e;
+}
+.eles{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
