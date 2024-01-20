@@ -1,0 +1,40 @@
+.caption{
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    background-color: rgb(236, 196, 147);
+}
+.p{
+    display: flex;
+    text-align: justify;
+    justify-content:space-around
+}
+.do{
+    color: rgb(18, 18, 87);
+    font-size: xx-large;
+    margin: 10px;
+}
+.p1{
+    display: flex;
+    justify-content: center;
+}
+.me{
+    font-size: xx-large;
+    color: rgb(21, 21, 102);
+    justify-content: space-around;
+}
+.description{
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+    color: rgb(72, 47, 141);
+    
+}
+.btn{
+    background-color: rgb(10, 10, 95);
+    border: 20;
+    border-color: rgb(236, 130, 130);
+    color: #e0d7d7;
+    
+
+}
