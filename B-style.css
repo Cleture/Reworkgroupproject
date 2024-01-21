@@ -378,6 +378,152 @@
   background-color: #31355b;
 }
 
+.ben-pg_5-banner_sec {
+  height: 500px;
+  background-color: #292d5a;
+  color: #fff;
+  padding-top: 100px;
+  background-image: url(./ben-Assets.html/ben_img-30.webp);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: right;
+  display: flex;
+  justify-content: space-between;
+}
+
+.ben_pg5texts {
+  padding-left: 50px;
+  padding-top: 60px;
+}
+
+.ben_pg5texts h2 {
+  font-size: 35px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.ben_pg5texts p {
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.ben_pg5texts button {
+  font-size: 20px;
+  padding: 8px 10px;
+  background-color: #ffb619;
+  color: #30344f;
+  cursor: pointer;
+  border: #ffb619;
+  border-radius: 10px;
+  margin-left: 50px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+.ben_pg5texts button:hover {
+  color: #fff;
+  background-color: #5f6384;
+}
+
+.ben_pg5img img {
+  padding-right: 100px;
+  height: 380px;
+  width: 480px;
+}
+.ben-pg5-maintext {
+  background-color: #fff;
+}
+
+.ben-pg5-maintext h1 {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  color: #30345e;
+  padding: 15px;
+}
+.ben-pg5-maintext p {
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  color: #30345e;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.ben-pg5-maintext h2 {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  color: #30345e;
+  padding: 15px;
+  padding-top: 60px;
+}
+
+.ben-pg5-maintext2 {
+  display: flex;
+  color: #30345e;
+  margin-left: 150px;
+  margin-right: 150px;
+}
+
+.ben-pg5-text1 h3 {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 10px;
+}
+
+.ben-pg5-text1 p {
+  font-size: 20px;
+  margin-right: 30px;
+}
+
+.ben-pg5-text2 h3 {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 10px;
+}
+
+.ben-pg5-text2 p {
+  font-size: 20px;
+  margin-right: 30px;
+}
+
+.ben-pg5-text3 h3 {
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-bottom: 10px;
+}
+
+.ben-pg5-text3 p {
+  font-size: 20px;
+  margin-right: 30px;
+}
+
+.ben-btnpg5 {
+  font-size: 20px;
+  padding: 8px 10px;
+  background-color: #ffb619;
+  color: #30344f;
+  cursor: pointer;
+  border: #ffb619;
+  border-radius: 6px;
+  margin-left: 600px;
+  margin-top: 60px;
+  margin-bottom: 40px;
+}
+
+.ben-btnpg5:hover {
+  color: #fff;
+  background-color: #31355b;
+}
+
 footer {
   height: 300px;
   background-color: #101436;
@@ -503,4 +649,9 @@ footer {
   width: 150px;
   padding-left: 20px;
   cursor: pointer;
+}
+
+.ben-disclaimer {
+  text-align: center;
+  justify-content: center;
 }
