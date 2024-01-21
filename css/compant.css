@@ -1,0 +1,6 @@
+.banner5{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(216, 188, 145);
+}
