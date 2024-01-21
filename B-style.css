@@ -44,8 +44,9 @@
 
 .ben-nav-links li {
   list-style: none;
-  margin: 20px;
-  margin-right: 30px;
+  margin: 10px;
+  margin-top: 15px;
+  margin-right: 20px;
 }
 
 .ben-nav-links a {
@@ -522,6 +523,31 @@
 .ben-btnpg5:hover {
   color: #fff;
   background-color: #31355b;
+}
+
+.ben_pg6-banner-sec {
+  height: 500px;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  padding-top: 130px;
+}
+
+.ben-pg6-bannerimg {
+  width: 100%;
+  height: 100%;
+}
+
+.ben_p6-banner_t3 {
+  margin-left: 20px;
+  font-size: 25px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: #31355b;
+}
+
+.ben-pg6-htext2 {
+  font-size: 15px;
+  color: #9483a8;
 }
 
 footer {
