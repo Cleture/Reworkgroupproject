@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(192, 159, 115);
+}
+.caption{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    font-style: oblique;
+    color: rgb(20, 20, 148);
+    background-color: rgb(183, 204, 162);
+    
+}
+.description{
+    display: flex;
+    font-size: larger;
+    background-color: #8b9e6b;
+    align-items: center;
+    color: rgb(25, 25, 129);
+}
+
