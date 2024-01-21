@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(146, 129, 91);
+    background-color: rgb(224, 220, 210);
 }
 .caption2{
     display: flex;
@@ -7,6 +7,8 @@ body{
     color: rgb(33, 33, 94);
     background-color: rgb(206, 235, 206);
     font-style: oblique;
+    justify-content: space-around;
+    margin-right: 0%;
 }
 .to{
     display: flex;
@@ -20,6 +22,6 @@ body{
     font-size: large;
     justify-content: center;
     align-items: center;
-    color: rgb(198, 211, 236);
+    color: rgb(8, 42, 105);
     font-style: oblique;
 }
