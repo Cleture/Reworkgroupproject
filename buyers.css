@@ -1,0 +1,45 @@
+
+body{
+    background-color: rgb(224, 231, 243);
+}
+.banner8{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(60, 214, 214);
+    
+}
+.text1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    color: hsl(23, 61%, 20%);
+}
+.text2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: x-large;
+    color: #dedef0;
+    background-color: #334223;
+    
+}
+.contact-btn{
+    display: flex;
+    border-color: rgb(133, 89, 32);
+    color: #e6d4d4;
+    cursor:auto;
+    background-color: blue;
+}
+.banner9-img{
+    display: flex;
+    color: rgb(50, 50, 172);
+}
+.car{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(27, 27, 83);
+    font-size: x-large;
+    background-color: rgb(238, 221, 221);
+}
