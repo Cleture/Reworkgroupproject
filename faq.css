@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(146, 129, 91);
+}
+.caption2{
+    display: flex;
+    font-size: large;
+    color: rgb(33, 33, 94);
+    background-color: rgb(206, 235, 206);
+    font-style: oblique;
+}
+.to{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(31, 30, 32);
+    font-size: 50px;
+}
+.caption3{
+    display: flex;
+    font-size: large;
+    justify-content: center;
+    align-items: center;
+    color: rgb(198, 211, 236);
+    font-style: oblique;
+}
